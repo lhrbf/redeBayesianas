@@ -61,10 +61,14 @@ Estrutura do Projeto
 ```bash```
 Copiar código
 
+## Estrutura do Projeto
+
+```plaintext
 .
 ├── bayesianas_dados_medicos.py  # Script principal para construção e inferência da Rede Bayesiana
 ├── requirements.txt             # Lista de dependências do projeto
 └── README.md                    # Instruções e documentação do projeto
+
 Dependências
 pgmpy: Biblioteca para construção e inferência de Redes Bayesianas.
 pandas: Biblioteca para manipulação e análise de dados.
@@ -79,5 +83,3 @@ Nota: Substitua https://github.com/seu_usuario/nome_do_repositorio.git pelo URL 
 
 go
 Copiar código
-
-Esse `README.md` assume que você tem um único script e um arquivo `requirements.txt`. Ajuste conforme necessário 
