@@ -80,6 +80,3 @@ Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Nota: Substitua https://github.com/seu_usuario/nome_do_repositorio.git pelo URL real do seu repositório e ajuste os caminhos e nomes de arquivos conforme necessário.
-
-go
-Copiar código
