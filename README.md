@@ -60,6 +60,7 @@ python bayesianas_dados_medicos.py
 Estrutura do Projeto
 ```bash```
 Copiar código
+
 .
 ├── bayesianas_dados_medicos.py  # Script principal para construção e inferência da Rede Bayesiana
 ├── requirements.txt             # Lista de dependências do projeto
