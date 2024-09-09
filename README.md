@@ -1,4 +1,4 @@
-# Rede Bayesiana para Previsão de Condições Médicas
+# Redes Bayesianas para Previsão de Condições Médicas
 
 Este projeto utiliza Redes Bayesianas para modelar e prever a probabilidade de uma condição médica, como diabetes, usando um conjunto de dados médicos. A biblioteca `pgmpy` é empregada para construir e inferir a Rede Bayesiana.
 
